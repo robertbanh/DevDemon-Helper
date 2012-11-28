@@ -2,7 +2,7 @@
 
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-// rbanh class
+// extend the core channel class
 require_once PATH_MOD.'channel/mod.channel.php';
 
 $plugin_info = array('pi_name' => 'Taecho Tagger Helper',
